@@ -1,0 +1,9 @@
+# Diabetes Prediction - Dependencies
+# Python 3.10+
+
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.4.0
+jupyter>=1.0.0
+nbconvert>=7.0.0
+ipykernel>=6.0.0
